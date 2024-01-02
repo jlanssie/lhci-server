@@ -1,4 +1,4 @@
-# lhci-server
+# LHCI Server
 A Lighthouse CI Server with SSH support.
 
 ## Setup
